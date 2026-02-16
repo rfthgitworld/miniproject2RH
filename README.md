@@ -1,11 +1,6 @@
-### INF601 - Advanced Programming in Python
-### Rifat Hossain   
-### Mini Project 2
- 
- 
 # Project Title
  
-Mini project 2: Health Data Analysis using Matplotlib and Pandas
+ Health Data Analysis using Matplotlib and Pandas
  
 ## Description
  
